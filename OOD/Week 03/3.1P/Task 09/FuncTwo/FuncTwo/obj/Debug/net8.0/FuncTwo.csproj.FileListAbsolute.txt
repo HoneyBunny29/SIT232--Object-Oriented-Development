@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\bin\Debug\net8.0\FuncTwo.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\bin\Debug\net8.0\FuncTwo.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\bin\Debug\net8.0\FuncTwo.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\bin\Debug\net8.0\FuncTwo.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\bin\Debug\net8.0\FuncTwo.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\obj\Debug\net8.0\FuncTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\obj\Debug\net8.0\FuncTwo.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\obj\Debug\net8.0\FuncTwo.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\obj\Debug\net8.0\FuncTwo.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\obj\Debug\net8.0\FuncTwo.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\obj\Debug\net8.0\refint\FuncTwo.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\obj\Debug\net8.0\FuncTwo.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\obj\Debug\net8.0\FuncTwo.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 09\FuncTwo\FuncTwo\obj\Debug\net8.0\ref\FuncTwo.dll

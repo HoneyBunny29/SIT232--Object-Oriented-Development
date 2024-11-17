@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\bin\Debug\net8.0\1.2 Q1.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\bin\Debug\net8.0\1.2 Q1.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\bin\Debug\net8.0\1.2 Q1.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\bin\Debug\net8.0\1.2 Q1.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\bin\Debug\net8.0\1.2 Q1.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\obj\Debug\net8.0\1.2 Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\obj\Debug\net8.0\1.2 Q1.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\obj\Debug\net8.0\1.2 Q1.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\obj\Debug\net8.0\1.2 Q1.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\obj\Debug\net8.0\1.2 Q1.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\obj\Debug\net8.0\refint\1.2 Q1.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\obj\Debug\net8.0\1.2 Q1.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\obj\Debug\net8.0\1.2 Q1.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 4\Q1\1.2 Q1\1.2 Q1\obj\Debug\net8.0\ref\1.2 Q1.dll

@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\bin\Debug\net8.0\TestMyPolynomial.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\bin\Debug\net8.0\TestMyPolynomial.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\bin\Debug\net8.0\TestMyPolynomial.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\bin\Debug\net8.0\TestMyPolynomial.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\bin\Debug\net8.0\TestMyPolynomial.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\obj\Debug\net8.0\TestMyPolynomial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\obj\Debug\net8.0\TestMyPolynomial.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\obj\Debug\net8.0\TestMyPolynomial.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\obj\Debug\net8.0\TestMyPolynomial.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\obj\Debug\net8.0\TestMyPolynomial.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\obj\Debug\net8.0\refint\TestMyPolynomial.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\obj\Debug\net8.0\TestMyPolynomial.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\obj\Debug\net8.0\TestMyPolynomial.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\3.3 C\TestMyPolynomial\TestMyPolynomial\obj\Debug\net8.0\ref\TestMyPolynomial.dll

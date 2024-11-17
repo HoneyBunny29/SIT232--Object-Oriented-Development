@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.1p\\task 02\\zooparkwithinheritance\\zooparkwithinheritance\\animalwithinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|solutionrelative:zooparkwithinheritance\\animalwithinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.1p\\task 02\\zooparkwithinheritance\\zooparkwithinheritance\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|solutionrelative:zooparkwithinheritance\\tiger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.1p\\task 02\\zooparkwithinheritance\\zooparkwithinheritance\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|solutionrelative:zooparkwithinheritance\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.1p\\task 02\\zooparkwithinheritance\\zooparkwithinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|solutionrelative:zooparkwithinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.1p\\task 02\\zooparkwithinheritance\\zooparkwithinheritance\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|solutionrelative:zooparkwithinheritance\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.1p\\task 02\\zooparkwithinheritance\\zooparkwithinheritance\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|solutionrelative:zooparkwithinheritance\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.1p\\task 02\\zooparkwithinheritance\\zooparkwithinheritance\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|solutionrelative:zooparkwithinheritance\\feline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.1p\\task 02\\zooparkwithinheritance\\zooparkwithinheritance\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|solutionrelative:zooparkwithinheritance\\lion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.1p\\task 02\\zooparkwithinheritance\\zooparkwithinheritance\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2166A208-6082-4C6A-89F1-BF777E2F2DE9}|ZooParkWithInheritance\\ZooParkWithInheritance.csproj|solutionrelative:zooparkwithinheritance\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "ZooParkWithInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Program.cs",
+              "RelativeToolTip": "ZooParkWithInheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:34:57.249Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalWithInheritance.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\AnimalWithInheritance.cs",
+              "RelativeDocumentMoniker": "ZooParkWithInheritance\\AnimalWithInheritance.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\AnimalWithInheritance.cs",
+              "RelativeToolTip": "ZooParkWithInheritance\\AnimalWithInheritance.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAgAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:35:55.207Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wolf.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Wolf.cs",
+              "RelativeDocumentMoniker": "ZooParkWithInheritance\\Wolf.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Wolf.cs",
+              "RelativeToolTip": "ZooParkWithInheritance\\Wolf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:40:34.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tiger.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Tiger.cs",
+              "RelativeDocumentMoniker": "ZooParkWithInheritance\\Tiger.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Tiger.cs",
+              "RelativeToolTip": "ZooParkWithInheritance\\Tiger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:39:56.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Penguin.cs",
+              "RelativeDocumentMoniker": "ZooParkWithInheritance\\Penguin.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Penguin.cs",
+              "RelativeToolTip": "ZooParkWithInheritance\\Penguin.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:39:17.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lion.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Lion.cs",
+              "RelativeDocumentMoniker": "ZooParkWithInheritance\\Lion.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Lion.cs",
+              "RelativeToolTip": "ZooParkWithInheritance\\Lion.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:38:35.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Feline.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Feline.cs",
+              "RelativeDocumentMoniker": "ZooParkWithInheritance\\Feline.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Feline.cs",
+              "RelativeToolTip": "ZooParkWithInheritance\\Feline.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:37:58.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Eagle.cs",
+              "RelativeDocumentMoniker": "ZooParkWithInheritance\\Eagle.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Eagle.cs",
+              "RelativeToolTip": "ZooParkWithInheritance\\Eagle.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:37:21.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Bird.cs",
+              "RelativeDocumentMoniker": "ZooParkWithInheritance\\Bird.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.1P\\Task 02\\ZooParkWithInheritance\\ZooParkWithInheritance\\Bird.cs",
+              "RelativeToolTip": "ZooParkWithInheritance\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:36:44.156Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

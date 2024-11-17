@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\bin\Debug\net8.0\Bank.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\bin\Debug\net8.0\Bank.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\bin\Debug\net8.0\Bank.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\bin\Debug\net8.0\Bank.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\bin\Debug\net8.0\Bank.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\obj\Debug\net8.0\Bank.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\obj\Debug\net8.0\refint\Bank.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\obj\Debug\net8.0\Bank.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\obj\Debug\net8.0\Bank.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.2 P\Bank\Bank\obj\Debug\net8.0\ref\Bank.dll

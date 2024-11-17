@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\bin\Debug\net8.0\ZooParkWithInheritance.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\bin\Debug\net8.0\ZooParkWithInheritance.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\bin\Debug\net8.0\ZooParkWithInheritance.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\bin\Debug\net8.0\ZooParkWithInheritance.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\bin\Debug\net8.0\ZooParkWithInheritance.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\obj\Debug\net8.0\ZooParkWithInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\obj\Debug\net8.0\ZooParkWithInheritance.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\obj\Debug\net8.0\ZooParkWithInheritance.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\obj\Debug\net8.0\ZooParkWithInheritance.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\obj\Debug\net8.0\ZooParkWithInheritance.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\obj\Debug\net8.0\refint\ZooParkWithInheritance.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\obj\Debug\net8.0\ZooParkWithInheritance.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\obj\Debug\net8.0\ZooParkWithInheritance.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 02\ZooParkWithInheritance\ZooParkWithInheritance\obj\Debug\net8.0\ref\ZooParkWithInheritance.dll

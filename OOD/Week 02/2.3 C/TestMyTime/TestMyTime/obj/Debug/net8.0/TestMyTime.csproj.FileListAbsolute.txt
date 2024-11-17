@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\bin\Debug\net8.0\TestMyTime.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\bin\Debug\net8.0\TestMyTime.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\bin\Debug\net8.0\TestMyTime.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\bin\Debug\net8.0\TestMyTime.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\bin\Debug\net8.0\TestMyTime.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\obj\Debug\net8.0\TestMyTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\obj\Debug\net8.0\TestMyTime.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\obj\Debug\net8.0\TestMyTime.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\obj\Debug\net8.0\TestMyTime.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\obj\Debug\net8.0\TestMyTime.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\obj\Debug\net8.0\refint\TestMyTime.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\obj\Debug\net8.0\TestMyTime.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\obj\Debug\net8.0\TestMyTime.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.3 C\TestMyTime\TestMyTime\obj\Debug\net8.0\ref\TestMyTime.dll

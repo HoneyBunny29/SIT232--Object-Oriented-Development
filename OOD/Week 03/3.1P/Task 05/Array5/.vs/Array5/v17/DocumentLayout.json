@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 03\\Task 05\\Array5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D88CF23-BFF1-4EC9-B87C-E9D6546BE951}|Array5\\Array5.csproj|c:\\users\\corer\\onedrive\\desktop\\ood\\week 03\\task 05\\array5\\array5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D88CF23-BFF1-4EC9-B87C-E9D6546BE951}|Array5\\Array5.csproj|solutionrelative:array5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 03\\Task 05\\Array5\\Array5\\Program.cs",
+              "RelativeDocumentMoniker": "Array5\\Program.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 03\\Task 05\\Array5\\Array5\\Program.cs",
+              "RelativeToolTip": "Array5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:02:11.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

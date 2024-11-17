@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\bin\Debug\net8.0\Array6.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\bin\Debug\net8.0\Array6.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\bin\Debug\net8.0\Array6.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\bin\Debug\net8.0\Array6.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\bin\Debug\net8.0\Array6.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\obj\Debug\net8.0\Array6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\obj\Debug\net8.0\Array6.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\obj\Debug\net8.0\Array6.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\obj\Debug\net8.0\Array6.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\obj\Debug\net8.0\Array6.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\obj\Debug\net8.0\refint\Array6.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\obj\Debug\net8.0\Array6.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\obj\Debug\net8.0\Array6.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 06\Array6\Array6\obj\Debug\net8.0\ref\Array6.dll

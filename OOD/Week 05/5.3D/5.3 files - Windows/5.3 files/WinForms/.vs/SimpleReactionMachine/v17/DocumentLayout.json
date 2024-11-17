@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|c:\\users\\corer\\onedrive\\desktop\\ood\\week 05\\5.3d\\5.3 files - windows\\5.3 files\\winforms\\simplereactionmachine\\simplereactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|solutionrelative:simplereactionmachine\\simplereactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\simplereactionmachine\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|solutionrelative:simplereactionmachine\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\simplereactionmachine\\igui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|solutionrelative:simplereactionmachine\\igui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\simplereactionmachine\\irandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|solutionrelative:simplereactionmachine\\irandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\simplereactionmachine\\reactionmachineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|solutionrelative:simplereactionmachine\\reactionmachineform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\simplereactionmachine\\simplereactionmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|solutionrelative:simplereactionmachine\\simplereactionmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\simplereactionmachine\\reactionmachineform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E8C11B03-6C2A-418E-9586-19A6A18DC788}|SimpleReactionMachine\\SimpleReactionMachine.csproj|solutionrelative:simplereactionmachine\\reactionmachineform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleReactionController.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\SimpleReactionController.cs",
+              "RelativeDocumentMoniker": "SimpleReactionMachine\\SimpleReactionController.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\SimpleReactionController.cs",
+              "RelativeToolTip": "SimpleReactionMachine\\SimpleReactionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T17:45:09.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReactionMachineForm.resx",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\ReactionMachineForm.resx",
+              "RelativeDocumentMoniker": "SimpleReactionMachine\\ReactionMachineForm.resx",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\ReactionMachineForm.resx",
+              "RelativeToolTip": "SimpleReactionMachine\\ReactionMachineForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-06-30T09:36:25.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimpleReactionMachine.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\SimpleReactionMachine.cs",
+              "RelativeDocumentMoniker": "SimpleReactionMachine\\SimpleReactionMachine.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\SimpleReactionMachine.cs",
+              "RelativeToolTip": "SimpleReactionMachine\\SimpleReactionMachine.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:11:21.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReactionMachineForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\ReactionMachineForm.cs",
+              "RelativeDocumentMoniker": "SimpleReactionMachine\\ReactionMachineForm.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\ReactionMachineForm.cs [Design]",
+              "RelativeToolTip": "SimpleReactionMachine\\ReactionMachineForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:11:10.965Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRandom.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\IRandom.cs",
+              "RelativeDocumentMoniker": "SimpleReactionMachine\\IRandom.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\IRandom.cs",
+              "RelativeToolTip": "SimpleReactionMachine\\IRandom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:11:05.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGui.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\IGui.cs",
+              "RelativeDocumentMoniker": "SimpleReactionMachine\\IGui.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\IGui.cs",
+              "RelativeToolTip": "SimpleReactionMachine\\IGui.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:11:03.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IController.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\IController.cs",
+              "RelativeDocumentMoniker": "SimpleReactionMachine\\IController.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 05\\5.3D\\5.3 files - Windows\\5.3 files\\WinForms\\SimpleReactionMachine\\IController.cs",
+              "RelativeToolTip": "SimpleReactionMachine\\IController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T09:10:10.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

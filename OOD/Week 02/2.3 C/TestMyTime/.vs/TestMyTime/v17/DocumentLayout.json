@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 02\\2.3 C\\TestMyTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E5C952-5747-4C27-88AE-332EF0CEC8CE}|TestMyTime\\TestMyTime.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 02\\2.3 c\\testmytime\\testmytime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E5C952-5747-4C27-88AE-332EF0CEC8CE}|TestMyTime\\TestMyTime.csproj|solutionrelative:testmytime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E5C952-5747-4C27-88AE-332EF0CEC8CE}|TestMyTime\\TestMyTime.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 02\\2.3 c\\testmytime\\testmytime\\mytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E5C952-5747-4C27-88AE-332EF0CEC8CE}|TestMyTime\\TestMyTime.csproj|solutionrelative:testmytime\\mytime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyTime.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 02\\2.3 C\\TestMyTime\\TestMyTime\\MyTime.cs",
+              "RelativeDocumentMoniker": "TestMyTime\\MyTime.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 02\\2.3 C\\TestMyTime\\TestMyTime\\MyTime.cs",
+              "RelativeToolTip": "TestMyTime\\MyTime.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:55:36.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 02\\2.3 C\\TestMyTime\\TestMyTime\\Program.cs",
+              "RelativeDocumentMoniker": "TestMyTime\\Program.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 02\\2.3 C\\TestMyTime\\TestMyTime\\Program.cs",
+              "RelativeToolTip": "TestMyTime\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T15:55:01.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

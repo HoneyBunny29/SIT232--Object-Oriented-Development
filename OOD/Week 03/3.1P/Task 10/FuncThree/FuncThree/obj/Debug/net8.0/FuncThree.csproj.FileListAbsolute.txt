@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\bin\Debug\net8.0\FuncThree.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\bin\Debug\net8.0\FuncThree.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\bin\Debug\net8.0\FuncThree.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\bin\Debug\net8.0\FuncThree.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\bin\Debug\net8.0\FuncThree.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\obj\Debug\net8.0\FuncThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\obj\Debug\net8.0\FuncThree.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\obj\Debug\net8.0\FuncThree.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\obj\Debug\net8.0\FuncThree.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\obj\Debug\net8.0\FuncThree.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\obj\Debug\net8.0\refint\FuncThree.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\obj\Debug\net8.0\FuncThree.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\obj\Debug\net8.0\FuncThree.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 10\FuncThree\FuncThree\obj\Debug\net8.0\ref\FuncThree.dll

@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\bin\Debug\net8.0\MobileProgram.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\bin\Debug\net8.0\MobileProgram.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\bin\Debug\net8.0\MobileProgram.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\bin\Debug\net8.0\MobileProgram.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\bin\Debug\net8.0\MobileProgram.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\obj\Debug\net8.0\MobileProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\obj\Debug\net8.0\MobileProgram.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\obj\Debug\net8.0\MobileProgram.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\obj\Debug\net8.0\MobileProgram.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\obj\Debug\net8.0\MobileProgram.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\obj\Debug\net8.0\refint\MobileProgram.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\obj\Debug\net8.0\MobileProgram.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\obj\Debug\net8.0\MobileProgram.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\MobileProgram\MobileProgram\obj\Debug\net8.0\ref\MobileProgram.dll

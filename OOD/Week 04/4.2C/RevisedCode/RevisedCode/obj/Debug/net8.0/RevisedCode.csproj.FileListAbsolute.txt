@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\bin\Debug\net8.0\RevisedCode.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\bin\Debug\net8.0\RevisedCode.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\bin\Debug\net8.0\RevisedCode.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\bin\Debug\net8.0\RevisedCode.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\bin\Debug\net8.0\RevisedCode.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\obj\Debug\net8.0\RevisedCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\obj\Debug\net8.0\RevisedCode.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\obj\Debug\net8.0\RevisedCode.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\obj\Debug\net8.0\RevisedCode.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\obj\Debug\net8.0\RevisedCode.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\obj\Debug\net8.0\refint\RevisedCode.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\obj\Debug\net8.0\RevisedCode.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\obj\Debug\net8.0\RevisedCode.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\RevisedCode\RevisedCode\obj\Debug\net8.0\ref\RevisedCode.dll

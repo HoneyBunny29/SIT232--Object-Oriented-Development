@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\bin\Debug\net8.0\List.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\bin\Debug\net8.0\List.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\bin\Debug\net8.0\List.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\bin\Debug\net8.0\List.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\bin\Debug\net8.0\List.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\obj\Debug\net8.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\obj\Debug\net8.0\List.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\obj\Debug\net8.0\List.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\obj\Debug\net8.0\List.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\obj\Debug\net8.0\List.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\obj\Debug\net8.0\refint\List.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\obj\Debug\net8.0\List.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\obj\Debug\net8.0\List.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 07\List\List\obj\Debug\net8.0\ref\List.dll

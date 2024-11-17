@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\bin\Debug\net8.0\5.2P.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\bin\Debug\net8.0\5.2P.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\bin\Debug\net8.0\5.2P.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\bin\Debug\net8.0\5.2P.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\bin\Debug\net8.0\5.2P.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\obj\Debug\net8.0\5.2P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\obj\Debug\net8.0\5.2P.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\obj\Debug\net8.0\5.2P.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\obj\Debug\net8.0\5.2P.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\obj\Debug\net8.0\5.2P.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\obj\Debug\net8.0\refint\5.2P.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\obj\Debug\net8.0\5.2P.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\obj\Debug\net8.0\5.2P.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.2P\5.2P\5.2P\obj\Debug\net8.0\ref\5.2P.dll

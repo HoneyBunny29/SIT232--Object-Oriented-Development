@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\bin\Debug\net8.0\5.3D.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\bin\Debug\net8.0\5.3D.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\bin\Debug\net8.0\5.3D.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\bin\Debug\net8.0\5.3D.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\bin\Debug\net8.0\5.3D.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\obj\Debug\net8.0\5.3D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\obj\Debug\net8.0\5.3D.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\obj\Debug\net8.0\5.3D.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\obj\Debug\net8.0\5.3D.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\obj\Debug\net8.0\5.3D.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\obj\Debug\net8.0\refint\5.3D.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\obj\Debug\net8.0\5.3D.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\obj\Debug\net8.0\5.3D.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.3D\5.3D\5.3D\obj\Debug\net8.0\ref\5.3D.dll

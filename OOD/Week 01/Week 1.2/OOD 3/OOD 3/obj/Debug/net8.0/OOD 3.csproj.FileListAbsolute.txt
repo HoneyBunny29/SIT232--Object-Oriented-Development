@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\bin\Debug\net8.0\OOD 3.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\bin\Debug\net8.0\OOD 3.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\bin\Debug\net8.0\OOD 3.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\bin\Debug\net8.0\OOD 3.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\bin\Debug\net8.0\OOD 3.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\obj\Debug\net8.0\OOD 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\obj\Debug\net8.0\OOD 3.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\obj\Debug\net8.0\OOD 3.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\obj\Debug\net8.0\OOD 3.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\obj\Debug\net8.0\OOD 3.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\obj\Debug\net8.0\refint\OOD 3.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\obj\Debug\net8.0\OOD 3.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\obj\Debug\net8.0\OOD 3.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 1.2\OOD 3\OOD 3\obj\Debug\net8.0\ref\OOD 3.dll

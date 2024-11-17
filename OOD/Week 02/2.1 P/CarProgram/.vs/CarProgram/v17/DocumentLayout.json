@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 02\\2.1 P\\CarProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0290DA-8487-4268-A2A5-092DBD90327D}|CarProgram\\CarProgram.csproj|c:\\users\\corer\\onedrive\\desktop\\ood\\week 02\\2.1 p\\carprogram\\carprogram\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0290DA-8487-4268-A2A5-092DBD90327D}|CarProgram\\CarProgram.csproj|solutionrelative:carprogram\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0290DA-8487-4268-A2A5-092DBD90327D}|CarProgram\\CarProgram.csproj|c:\\users\\corer\\onedrive\\desktop\\ood\\week 02\\2.1 p\\carprogram\\carprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0290DA-8487-4268-A2A5-092DBD90327D}|CarProgram\\CarProgram.csproj|solutionrelative:carprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "car.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 02\\2.1 P\\CarProgram\\CarProgram\\car.cs",
+              "RelativeDocumentMoniker": "CarProgram\\car.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 02\\2.1 P\\CarProgram\\CarProgram\\car.cs",
+              "RelativeToolTip": "CarProgram\\car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:26:15.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 02\\2.1 P\\CarProgram\\CarProgram\\Program.cs",
+              "RelativeDocumentMoniker": "CarProgram\\Program.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 02\\2.1 P\\CarProgram\\CarProgram\\Program.cs",
+              "RelativeToolTip": "CarProgram\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T11:25:36.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

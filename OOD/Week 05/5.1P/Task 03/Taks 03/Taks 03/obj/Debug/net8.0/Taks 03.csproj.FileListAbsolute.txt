@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\bin\Debug\net8.0\Taks 03.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\bin\Debug\net8.0\Taks 03.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\bin\Debug\net8.0\Taks 03.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\bin\Debug\net8.0\Taks 03.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\bin\Debug\net8.0\Taks 03.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\obj\Debug\net8.0\Taks 03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\obj\Debug\net8.0\Taks 03.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\obj\Debug\net8.0\Taks 03.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\obj\Debug\net8.0\Taks 03.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\obj\Debug\net8.0\Taks 03.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\obj\Debug\net8.0\refint\Taks 03.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\obj\Debug\net8.0\Taks 03.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\obj\Debug\net8.0\Taks 03.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 05\5.1P\Task 03\Taks 03\Taks 03\obj\Debug\net8.0\ref\Taks 03.dll

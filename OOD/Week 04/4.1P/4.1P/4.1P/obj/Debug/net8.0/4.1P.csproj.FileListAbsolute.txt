@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\bin\Debug\net8.0\4.1P.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\bin\Debug\net8.0\4.1P.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\bin\Debug\net8.0\4.1P.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\bin\Debug\net8.0\4.1P.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\bin\Debug\net8.0\4.1P.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\obj\Debug\net8.0\4.1P.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\obj\Debug\net8.0\4.1P.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\obj\Debug\net8.0\4.1P.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\obj\Debug\net8.0\4.1P.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\obj\Debug\net8.0\4.1P.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\obj\Debug\net8.0\refint\4.1P.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\obj\Debug\net8.0\4.1P.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\obj\Debug\net8.0\4.1P.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.1P\4.1P\4.1P\obj\Debug\net8.0\ref\4.1P.dll

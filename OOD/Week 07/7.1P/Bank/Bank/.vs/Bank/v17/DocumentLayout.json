@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 07\\7.1p\\bank\\bank\\bank\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|solutionrelative:bank\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 07\\7.1p\\bank\\bank\\bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|solutionrelative:bank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 07\\7.1p\\bank\\bank\\bank\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|solutionrelative:bank\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 07\\7.1p\\bank\\bank\\bank\\deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|solutionrelative:bank\\deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 07\\7.1p\\bank\\bank\\bank\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|solutionrelative:bank\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 07\\7.1p\\bank\\bank\\bank\\transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|solutionrelative:bank\\transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 07\\7.1p\\bank\\bank\\bank\\withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9905D11-1F63-4D56-AD66-A6C03D6DE9A4}|Bank\\Bank.csproj|solutionrelative:bank\\withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WithdrawTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\WithdrawTransaction.cs",
+              "RelativeDocumentMoniker": "Bank\\WithdrawTransaction.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\WithdrawTransaction.cs",
+              "RelativeToolTip": "Bank\\WithdrawTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:41:48.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransferTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\TransferTransaction.cs",
+              "RelativeDocumentMoniker": "Bank\\TransferTransaction.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\TransferTransaction.cs",
+              "RelativeToolTip": "Bank\\TransferTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:41:23.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\Transaction.cs",
+              "RelativeDocumentMoniker": "Bank\\Transaction.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\Transaction.cs",
+              "RelativeToolTip": "Bank\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:40:56.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepositTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\DepositTransaction.cs",
+              "RelativeDocumentMoniker": "Bank\\DepositTransaction.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\DepositTransaction.cs",
+              "RelativeToolTip": "Bank\\DepositTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:40:27.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\Bank.cs",
+              "RelativeDocumentMoniker": "Bank\\Bank.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\Bank.cs",
+              "RelativeToolTip": "Bank\\Bank.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:40:02.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\Account.cs",
+              "RelativeDocumentMoniker": "Bank\\Account.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\Account.cs",
+              "RelativeToolTip": "Bank\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:39:40.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\Program.cs",
+              "RelativeDocumentMoniker": "Bank\\Program.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 07\\7.1P\\Bank\\Bank\\Bank\\Program.cs",
+              "RelativeToolTip": "Bank\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:38:29.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

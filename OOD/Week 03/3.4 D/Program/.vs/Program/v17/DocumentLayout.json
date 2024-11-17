@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 03\\3.4 D\\Program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D40168-AAB9-4B81-8B43-F835744445F4}|Program\\Program.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 03\\3.4 d\\program\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D40168-AAB9-4B81-8B43-F835744445F4}|Program\\Program.csproj|solutionrelative:program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D40168-AAB9-4B81-8B43-F835744445F4}|Program\\Program.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 03\\3.4 d\\program\\program\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D40168-AAB9-4B81-8B43-F835744445F4}|Program\\Program.csproj|solutionrelative:program\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D40168-AAB9-4B81-8B43-F835744445F4}|Program\\Program.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 03\\3.4 d\\program\\program\\accountsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D40168-AAB9-4B81-8B43-F835744445F4}|Program\\Program.csproj|solutionrelative:program\\accountsorter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountSorter.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 03\\3.4 D\\Program\\Program\\AccountSorter.cs",
+              "RelativeDocumentMoniker": "Program\\AccountSorter.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 03\\3.4 D\\Program\\Program\\AccountSorter.cs",
+              "RelativeToolTip": "Program\\AccountSorter.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwHcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:20:02.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 03\\3.4 D\\Program\\Program\\Account.cs",
+              "RelativeDocumentMoniker": "Program\\Account.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 03\\3.4 D\\Program\\Program\\Account.cs",
+              "RelativeToolTip": "Program\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:15:59.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 03\\3.4 D\\Program\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "Program\\Program.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 03\\3.4 D\\Program\\Program\\Program.cs",
+              "RelativeToolTip": "Program\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T14:13:58.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 03\\3.2 P\\Task 02\\BankSystem.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C08973-CBAB-4554-A47B-A97051466AA5}|BankSystem.cs\\BankSystem.cs.csproj|c:\\users\\corer\\onedrive\\desktop\\ood\\week 03\\3.2 p\\task 02\\banksystem.cs\\banksystem.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C08973-CBAB-4554-A47B-A97051466AA5}|BankSystem.cs\\BankSystem.cs.csproj|solutionrelative:banksystem.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C08973-CBAB-4554-A47B-A97051466AA5}|BankSystem.cs\\BankSystem.cs.csproj|c:\\users\\corer\\onedrive\\desktop\\ood\\week 03\\3.2 p\\task 02\\banksystem.cs\\banksystem.cs\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C08973-CBAB-4554-A47B-A97051466AA5}|BankSystem.cs\\BankSystem.cs.csproj|solutionrelative:banksystem.cs\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C08973-CBAB-4554-A47B-A97051466AA5}|BankSystem.cs\\BankSystem.cs.csproj|c:\\users\\corer\\onedrive\\desktop\\ood\\week 03\\3.2 p\\task 02\\banksystem.cs\\banksystem.cs\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C08973-CBAB-4554-A47B-A97051466AA5}|BankSystem.cs\\BankSystem.cs.csproj|solutionrelative:banksystem.cs\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 03\\3.2 P\\Task 02\\BankSystem.cs\\BankSystem.cs\\Enum.cs",
+              "RelativeDocumentMoniker": "BankSystem.cs\\Enum.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 03\\3.2 P\\Task 02\\BankSystem.cs\\BankSystem.cs\\Enum.cs",
+              "RelativeToolTip": "BankSystem.cs\\Enum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:17:06.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 03\\3.2 P\\Task 02\\BankSystem.cs\\BankSystem.cs\\Account.cs",
+              "RelativeDocumentMoniker": "BankSystem.cs\\Account.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 03\\3.2 P\\Task 02\\BankSystem.cs\\BankSystem.cs\\Account.cs",
+              "RelativeToolTip": "BankSystem.cs\\Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:13:24.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 03\\3.2 P\\Task 02\\BankSystem.cs\\BankSystem.cs\\Program.cs",
+              "RelativeDocumentMoniker": "BankSystem.cs\\Program.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\OOD\\Week 03\\3.2 P\\Task 02\\BankSystem.cs\\BankSystem.cs\\Program.cs",
+              "RelativeToolTip": "BankSystem.cs\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T15:13:05.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.2p\\5.2p\\5.2p\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|solutionrelative:5.2p\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.2p\\5.2p\\5.2p\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|solutionrelative:5.2p\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.2p\\5.2p\\5.2p\\deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|solutionrelative:5.2p\\deposittransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.2p\\5.2p\\5.2p\\withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|solutionrelative:5.2p\\withdrawtransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.2p\\5.2p\\5.2p\\transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|solutionrelative:5.2p\\transfertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|c:\\users\\corer\\onedrive\\desktop\\1st year\\ood\\week 05\\5.2p\\5.2p\\5.2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA1EA13B-7766-4128-90A6-7D853AF47416}|5.2P\\5.2P.csproj|solutionrelative:5.2p\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\Account.cs",
+              "RelativeDocumentMoniker": "5.2P\\Account.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\Account.cs",
+              "RelativeToolTip": "5.2P\\Account.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAE4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:26:39.546Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepositTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\DepositTransaction.cs",
+              "RelativeDocumentMoniker": "5.2P\\DepositTransaction.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\DepositTransaction.cs",
+              "RelativeToolTip": "5.2P\\DepositTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:27:43.171Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WithdrawTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\WithdrawTransaction.cs",
+              "RelativeDocumentMoniker": "5.2P\\WithdrawTransaction.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\WithdrawTransaction.cs",
+              "RelativeToolTip": "5.2P\\WithdrawTransaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:30:16.79Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transfertransaction.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\Transfertransaction.cs",
+              "RelativeDocumentMoniker": "5.2P\\Transfertransaction.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\Transfertransaction.cs",
+              "RelativeToolTip": "5.2P\\Transfertransaction.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAwwHIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:29:13.514Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enum.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\Enum.cs",
+              "RelativeDocumentMoniker": "5.2P\\Enum.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\Enum.cs",
+              "RelativeToolTip": "5.2P\\Enum.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwCcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:28:19.384Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\Program.cs",
+              "RelativeDocumentMoniker": "5.2P\\Program.cs",
+              "ToolTip": "C:\\Users\\corer\\OneDrive\\Desktop\\1st year\\OOD\\Week 05\\5.2P\\5.2P\\5.2P\\Program.cs",
+              "RelativeToolTip": "5.2P\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:25:49.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

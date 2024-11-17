@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\bin\Debug\net8.0\CarProgram.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\bin\Debug\net8.0\CarProgram.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\bin\Debug\net8.0\CarProgram.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\bin\Debug\net8.0\CarProgram.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\bin\Debug\net8.0\CarProgram.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\obj\Debug\net8.0\CarProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\obj\Debug\net8.0\CarProgram.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\obj\Debug\net8.0\CarProgram.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\obj\Debug\net8.0\CarProgram.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\obj\Debug\net8.0\CarProgram.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\obj\Debug\net8.0\refint\CarProgram.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\obj\Debug\net8.0\CarProgram.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\obj\Debug\net8.0\CarProgram.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\CarProgram\CarProgram\obj\Debug\net8.0\ref\CarProgram.dll

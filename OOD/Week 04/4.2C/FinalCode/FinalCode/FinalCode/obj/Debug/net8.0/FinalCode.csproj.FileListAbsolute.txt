@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\bin\Debug\net8.0\FinalCode.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\bin\Debug\net8.0\FinalCode.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\bin\Debug\net8.0\FinalCode.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\bin\Debug\net8.0\FinalCode.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\bin\Debug\net8.0\FinalCode.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\obj\Debug\net8.0\FinalCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\obj\Debug\net8.0\FinalCode.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\obj\Debug\net8.0\FinalCode.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\obj\Debug\net8.0\FinalCode.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\obj\Debug\net8.0\FinalCode.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\obj\Debug\net8.0\refint\FinalCode.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\obj\Debug\net8.0\FinalCode.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\obj\Debug\net8.0\FinalCode.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 04\4.2C\FinalCode\FinalCode\FinalCode\obj\Debug\net8.0\ref\FinalCode.dll

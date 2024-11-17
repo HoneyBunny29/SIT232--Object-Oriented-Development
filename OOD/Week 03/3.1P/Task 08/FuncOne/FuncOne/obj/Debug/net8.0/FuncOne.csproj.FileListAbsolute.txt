@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\bin\Debug\net8.0\FuncOne.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\bin\Debug\net8.0\FuncOne.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\bin\Debug\net8.0\FuncOne.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\bin\Debug\net8.0\FuncOne.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\bin\Debug\net8.0\FuncOne.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\obj\Debug\net8.0\FuncOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\obj\Debug\net8.0\FuncOne.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\obj\Debug\net8.0\FuncOne.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\obj\Debug\net8.0\FuncOne.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\obj\Debug\net8.0\FuncOne.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\obj\Debug\net8.0\refint\FuncOne.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\obj\Debug\net8.0\FuncOne.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\obj\Debug\net8.0\FuncOne.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 08\FuncOne\FuncOne\obj\Debug\net8.0\ref\FuncOne.dll

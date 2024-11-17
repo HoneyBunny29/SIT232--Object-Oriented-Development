@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\bin\Debug\net8.0\TestAccount.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\bin\Debug\net8.0\TestAccount.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\bin\Debug\net8.0\TestAccount.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\bin\Debug\net8.0\TestAccount.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\bin\Debug\net8.0\TestAccount.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\obj\Debug\net8.0\TestAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\obj\Debug\net8.0\TestAccount.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\obj\Debug\net8.0\TestAccount.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\obj\Debug\net8.0\TestAccount.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\obj\Debug\net8.0\TestAccount.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\obj\Debug\net8.0\refint\TestAccount.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\obj\Debug\net8.0\TestAccount.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\obj\Debug\net8.0\TestAccount.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.2 P\TestAccount\TestAccount\obj\Debug\net8.0\ref\TestAccount.dll

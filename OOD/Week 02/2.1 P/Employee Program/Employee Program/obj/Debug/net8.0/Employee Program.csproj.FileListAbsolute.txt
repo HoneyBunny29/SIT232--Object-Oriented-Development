@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\bin\Debug\net8.0\Employee Program.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\bin\Debug\net8.0\Employee Program.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\bin\Debug\net8.0\Employee Program.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\bin\Debug\net8.0\Employee Program.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\bin\Debug\net8.0\Employee Program.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\obj\Debug\net8.0\Employee Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\obj\Debug\net8.0\Employee Program.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\obj\Debug\net8.0\Employee Program.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\obj\Debug\net8.0\Employee Program.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\obj\Debug\net8.0\Employee Program.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\obj\Debug\net8.0\refint\Employee Program.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\obj\Debug\net8.0\Employee Program.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\obj\Debug\net8.0\Employee Program.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 02\2.1 P\Employee Program\Employee Program\obj\Debug\net8.0\ref\Employee Program.dll

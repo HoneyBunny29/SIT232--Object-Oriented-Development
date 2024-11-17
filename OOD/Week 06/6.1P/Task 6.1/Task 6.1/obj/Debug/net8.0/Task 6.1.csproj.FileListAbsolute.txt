@@ -1,0 +1,28 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\bin\Debug\net8.0\Task 6.1.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\bin\Debug\net8.0\Task 6.1.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\bin\Debug\net8.0\Task 6.1.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\bin\Debug\net8.0\Task 6.1.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\bin\Debug\net8.0\Task 6.1.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\refint\Task 6.1.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\ref\Task 6.1.dll
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\bin\Debug\net8.0\Task 6.1.exe
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\bin\Debug\net8.0\Task 6.1.deps.json
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\bin\Debug\net8.0\Task 6.1.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\bin\Debug\net8.0\Task 6.1.dll
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\bin\Debug\net8.0\Task 6.1.pdb
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.dll
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\refint\Task 6.1.dll
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.pdb
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\Task 6.1.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\1st year\OOD\Week 06\6.1P\Task 6.1\Task 6.1\obj\Debug\net8.0\ref\Task 6.1.dll

@@ -1,0 +1,14 @@
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\bin\Debug\net8.0\FuncFour.exe
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\bin\Debug\net8.0\FuncFour.deps.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\bin\Debug\net8.0\FuncFour.runtimeconfig.json
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\bin\Debug\net8.0\FuncFour.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\bin\Debug\net8.0\FuncFour.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\obj\Debug\net8.0\FuncFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\obj\Debug\net8.0\FuncFour.AssemblyInfoInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\obj\Debug\net8.0\FuncFour.AssemblyInfo.cs
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\obj\Debug\net8.0\FuncFour.csproj.CoreCompileInputs.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\obj\Debug\net8.0\FuncFour.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\obj\Debug\net8.0\refint\FuncFour.dll
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\obj\Debug\net8.0\FuncFour.pdb
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\obj\Debug\net8.0\FuncFour.genruntimeconfig.cache
+C:\Users\corer\OneDrive\Desktop\OOD\Week 03\Task 11\FuncFour\FuncFour\obj\Debug\net8.0\ref\FuncFour.dll
